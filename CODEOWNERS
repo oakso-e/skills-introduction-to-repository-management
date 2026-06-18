@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @oakso-e
+/src/backend/database.py      @oakso-e
+/src/backend/routers/auth.py  @oakso-e
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @oakso-e
